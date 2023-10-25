@@ -1,0 +1,279 @@
+Timestamp,Email Address," What is your age?
+","What is your gender?
+",Citizenship,"Which city or region in India do you come from?
+"," Which Department?
+",Which background are you from?," How often do you shop online?
+"," What is your monthly allowance?
+"," Which hostel do you reside in?
+","What type of products do you typically buy online?
+",Which Indian e-commerce platforms do you use most frequently?,How much do you typically spend on online shopping?," What factors influence your decision to purchase online?
+",What improvements would you like to see in your preferred e-commerce platform(s)?,"On a scale of 1 to 5, how satisfied are you with your overall online shopping experience.
+"
+10/12/2023 20:40:55,mohammed.rayan@msds.christuniversity.in,20-22,Male,Indian,Karnataka,MSc DS,Urban,Rarely,5000-10000,Portofino,Clothing and fashion,Flipkart,0-₹2000,Price,Faster delivery,4
+10/12/2023 20:57:24,jyosna.philip@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Rural,Monthly,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Price,Faster delivery,4
+10/12/2023 20:59:56,chirag.n@msds.christuniversity.in,20-22,Male,Indian,Karnataka,MSc DS,Urban,Monthly,5000-10000,Villa,Electronics,Flipkart,0-₹2000,Price,Better customer service,4
+10/12/2023 21:02:27,nandhana.rajeev@msds.christuniversity.in,18-20,Female,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Price,Faster delivery,3
+10/12/2023 21:14:40,trikalagga.saha@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Urban,Rarely,More than 20000,Celebrations,Groceries,Amazon,₹6000-₹8000,Brand reputation,More product variety,5
+10/12/2023 21:21:16,shubham.kumar@msds.christuniversity.in,22-24,Male,Indian,Delhi,MSc DS,Urban,Monthly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/12/2023 21:46:25,amrutha.paalathara@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Residence,Groceries,Amazon,0-₹2000,Product reviews/ratings,More product variety,4
+10/12/2023 22:28:18,hitanshi.gupta@msds.christuniversity.in,22-24,Female,Indian,Delhi,MSc DS,Urban,Rarely,5000-10000,Celebrations,Beauty and cosmetics,Others,0-₹2000,Brand reputation,Faster delivery,4
+10/12/2023 22:42:33,v.sravani@msds.christuniversity.in,20-22,Female,Indian,Telangana,MSc DS,Urban,Rarely,5000-10000,Residence,Groceries,Flipkart,0-₹2000,Price,Faster delivery,4
+10/12/2023 22:44:29,suraj.mishra@msds.christuniversity.in,16-18,Male,Indian,Uttar Pradesh,MSc DS,Urban,Weekly,0-5000,Villa,Clothing and fashion,Flipkart,₹2000-₹4000,Price,Better customer service,3
+10/12/2023 22:48:00,keshav.gupta@science.christuniversity.in,18-20,Male,Indian,Uttarakhand,MSc GFA,Urban,Rarely,0-5000,Villa,Clothing and fashion,Others,0-₹2000,Price,More product variety,2
+10/12/2023 22:55:03,vikas.k@msds.christuniversity.in,20-22,Male,Indian,Tamil Nadu,MSc DS,Rural,Weekly,5000-10000,Residence,Clothing and fashion,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/12/2023 22:57:07,kanchanm304@gmail.com,18-20,Female,Indian,Tamil Nadu,BSc DS,Urban,Weekly,0-5000,Villa,Clothing and fashion,Myntra,0-₹2000,Price,Faster delivery,4
+10/12/2023 23:01:53,siddhartha.sinha@msds.christuniversity.in,20-22,Male,Indian,West Bengal,MSc DS,Urban,Rarely,5000-10000,Residence,Electronics,Amazon,More than 8000,Promotions and discounts,Faster delivery,4
+10/12/2023 23:02:13,nishant.sharma@science.christuniversity.in,22-24,Male,Indian,Delhi,MSc DS,Urban,Rarely,0-5000,Portofino,Electronics,Amazon,0-₹2000,Price,Faster delivery,4
+10/12/2023 23:03:22,akhilesh.gothwal@msgfa.christuniversity.in,22-24,Male,Indian,Rajasthan,MSc GFA,Urban,Rarely,5000-10000,Villa,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Improved website/app usability,5
+10/12/2023 23:06:29,shreybhandari0908@gmail.com,20-22,Male,Indian,Uttarakhand,MSc GFA,Urban,Monthly,10000-15000,Private,Electronics,Amazon,₹4000-₹6000,Product reviews/ratings,Faster delivery,4
+10/12/2023 23:06:50,george.thomas@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Villa,Electronics,Flipkart,0-₹2000,Product reviews/ratings,More product variety,3
+10/12/2023 23:07:38,safiyashaik906@gmail.com,18-20,Female,Indian,Andhra Pradesh,MSc DS,Urban,Monthly,0-5000,Residence,Groceries,Amazon,0-₹2000,Shipping speed and cost,Improved website/app usability,1
+10/12/2023 23:07:49,akaanksha.muralidharan@law.christuniversity.in,18-20,Female,Indian,Kerala,BA LLb,Rural,Weekly,10000-15000,Celebrations,Others,Myntra,0-₹2000,Brand reputation,Improved website/app usability,4
+10/12/2023 23:08:16,lakshmi.warrier@ecoa.christuniversity.in,16-18,Female,Indian,Maharashtra,BSc EA,Urban,Rarely,5000-10000,Residence,Clothing and fashion,Amazon,0-₹2000,Price,Better customer service,3
+10/12/2023 23:08:51,stuty.das@msds.christuniversity.in,22-24,Female,Indian,Assam,MSc DS,Urban,Monthly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/12/2023 23:11:22,arshika.saraswat@msds.christuniversity.in,20-22,Female,Indian,Uttar Pradesh,MSc DS,Urban,Monthly,0-5000,Residence,Beauty and cosmetics,Amazon,0-₹2000,Price,Faster delivery,5
+10/12/2023 23:13:29,manika.sehgal@science.christuniversity.in,20-22,Female,Indian,Maharashtra,MSc EA,Urban,Monthly,10000-15000,Celebrations,Groceries,Amazon,₹4000-₹6000,Stress,Faster delivery,4
+10/12/2023 23:14:01,vivette.marykurbah@law.christuniversity.in,18-20,Female,Indian,Meghalaya,BA LLb,Urban,Monthly,0-5000,Private,Beauty and cosmetics,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/12/2023 23:14:25,devika.vinod@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Rural,Monthly,5000-10000,Residence,Others,Others,0-₹2000,Promotions and discounts,Faster delivery,3
+10/12/2023 23:15:15,mebinbiju20@gmail.com,22-24,Male,Indian,Rajasthan,MBA,Urban,Monthly,10000-15000,Thicket,Electronics,Amazon,More than 8000,Price,Faster delivery,4
+10/12/2023 23:16:59,sampadha.varanasi@msea.christuniversity.in,20-22,Female,Indian,Odisha,MSc EA,Urban,Monthly,10000-15000,Celebrations,Clothing and fashion,Myntra,₹4000-₹6000,Shipping speed and cost,Other (please specify),5
+10/12/2023 23:17:13,aadith.mathew@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Monthly,5000-10000,Villa,Clothing and fashion,Myntra,0-₹2000,Price,More product variety,4
+10/12/2023 23:17:39,aleena.sebastian@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Urban,Monthly,0-5000,Residence,Others,Flipkart,0-₹2000,Price,More product variety,5
+10/12/2023 23:19:39,vaishnavi.c@law.christuniversity.in,16-18,Female,Indian,Bihar,BA LLb,Urban,Rarely,5000-10000,Celebrations,Clothing and fashion,Amazon,₹2000-₹4000,Price,Faster delivery,3
+10/12/2023 23:26:32,raj.kashish1411@gmail.com,18-20,Female,Indian,Jharkhand,BA LLb,Urban,Monthly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Other (please specify),3
+10/12/2023 23:32:33,abhidev.sp@msds.christuniversity.in,18-20,Male,Indian,Kerala,MSc DS,Urban,Monthly,0-5000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Shipping speed and cost,More product variety,3
+10/12/2023 23:32:48,jofin.siby@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Villa,Electronics,Flipkart,0-₹2000,Price,Faster delivery,3
+10/12/2023 23:34:08,ritu.shaw@science.christuniversity.in,20-22,Female,Indian,West Bengal,MSc EA,Urban,Rarely,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Shipping speed and cost,More product variety,4
+10/12/2023 23:35:29,gungun.agnihotri@msds.christuniversity.in,22-24,Female,Indian,Uttar Pradesh,MSc DS,Urban,Rarely,5000-10000,Celebrations,Groceries,Amazon,0-₹2000,Price,Faster delivery,3
+10/12/2023 23:38:32,divyanshu.tiwari@law.christuniversity.in,18-20,Male,Indian,Bihar,BA LLb,Rural,Rarely,0-5000,Villa,Books,Flipkart,More than 8000,Product reviews/ratings,Faster delivery,3
+10/12/2023 23:42:41,riya.pc@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Residence,Beauty and cosmetics,Others,0-₹2000,Promotions and discounts,Faster delivery,4
+10/12/2023 23:47:26,s.shivangis.sharma.1999@gmail.com,>24,Female,Indian,Delhi,MSc DS,Urban,Rarely,10000-15000,Celebrations,Clothing and fashion,Myntra,More than 8000,Shipping speed and cost,More product variety,5
+10/12/2023 23:47:36,aastha.bhatnagar@law.christuniversity.in,18-20,Female,Indian,Uttarakhand,BBA,Urban,Weekly,10000-15000,Private,Books,Amazon,₹4000-₹6000,Brand reputation,Faster delivery,4
+10/12/2023 23:48:23,margale.kailas@bba.christuniversity.in,18-20,Male,Indian,Maharashtra,BBA,Urban,Rarely,5000-10000,Private,Clothing and fashion,Amazon,0-₹2000,Brand reputation,More product variety,4
+10/12/2023 23:48:59,janvi.bhanushali@law.christuniversity.in,18-20,Female,Indian,Tamil Nadu,BBA,Urban,Rarely,5000-10000,Private,Beauty and cosmetics,Others,0-₹2000,Brand reputation,Improved website/app usability,3
+10/12/2023 23:56:38,gokul.manoj@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Rural,Rarely,5000-10000,Villa,Electronics,Amazon,₹2000-₹4000,Price,Faster delivery,3
+10/12/2023 23:58:18,ameyaaaj@gmail.com,16-18,Male,Indian,Gujarat,BBA,Urban,Weekly,0-5000,Private,Clothing and fashion,Myntra,0-₹2000,Price,More product variety,3
+10/13/2023 0:00:13,popuaasim@gmail.com,18-20,Male,Indian,Goa,BBA,Urban,Rarely,5000-10000,Villa,Clothing and fashion,Amazon,₹6000-₹8000,Price,Improved website/app usability,4
+10/13/2023 0:00:24,simran.jaiswal@law.christuniversity.in,18-20,Female,Indian,Bihar,BA LLb,Urban,Daily,0-5000,Celebrations,Clothing and fashion,Myntra,₹2000-₹4000,Promotions and discounts,Faster delivery,4
+10/13/2023 0:01:12,sree.yuvan@law.christuniversity.in,18-20,Male,Indian,Tamil Nadu,BA LLb,Urban,Rarely,10000-15000,Villa,Electronics,Amazon,0-₹2000,Shipping speed and cost,Better customer service,3
+10/13/2023 0:02:58,bharatchinchu@gmail.com,22-24,Male,Indian,Kerala,MBA,Urban,Monthly,10000-15000,Villa,Books,Flipkart,₹4000-₹6000,Price,Faster delivery,4
+10/13/2023 0:03:24,tsguru007@gmail.com,22-24,Male,Indian,Tamil Nadu,MBA,Urban,Rarely,0-5000,Villa,Electronics,Flipkart,0-₹2000,Price,Better customer service,4
+10/13/2023 0:03:33,selina.lana@msds.christuniversity.in,22-24,Female,Indian,Meghalaya,MSc DS,Urban,Monthly,10000-15000,Celebrations,Beauty and cosmetics,Myntra,₹2000-₹4000,Product reviews/ratings,Better customer service,3
+10/13/2023 0:08:47,prateeksingh@law.christuniversity.in,20-22,Male,Indian,Haryana,BA LLb,Urban,Monthly,5000-10000,Private,Electronics,Amazon,0-₹2000,Price,More product variety,4
+10/13/2023 0:19:44,uppuveda.aishwarya2022@vitstudent.ac.in,18-20,Female,Indian,Andhra Pradesh,BBA,Urban,Rarely,5000-10000,Residence,Beauty and cosmetics,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,3
+10/13/2023 0:32:42,rashmisharma1776@gmail.com,>24,Female,Indian,Delhi,MSc DS,Urban,Weekly,More than 20000,Private,Groceries,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,4
+10/13/2023 0:36:10,surajmishra0806@gmail.com,20-22,Male,Indian,Uttar Pradesh,MSc DS,Urban,Daily,5000-10000,Villa,Groceries,Myntra,₹4000-₹6000,Shipping speed and cost,More product variety,3
+10/13/2023 0:44:23,alpha@gmail.com,20-22,Male,Indian,Uttar Pradesh,MSc DS,Urban,Monthly,10000-15000,Villa,Clothing and fashion,Amazon,₹4000-₹6000,Shipping speed and cost,Better customer service,3
+10/13/2023 0:49:03,lalmani0203@gmail.com,>24,Male,Indian,Uttar Pradesh,MBA,Urban,Monthly,10000-15000,Private,Groceries,Myntra,₹4000-₹6000,Brand reputation,Better customer service,3
+10/13/2023 0:50:06,surajm304@gmail.com,18-20,Male,Indian,Maharashtra,MSc DS,Urban,Daily,5000-10000,Villa,Electronics,Flipkart,₹4000-₹6000,Shipping speed and cost,Better customer service,3
+10/13/2023 0:53:36,fathimathul.shoukkathali@msds.christuniversity.in,20-22,Female,NRI,Kerala,MSc DS,Urban,Rarely,10000-15000,Private,Clothing and fashion,Flipkart,0-₹2000,Price,Faster delivery,3
+10/13/2023 0:56:17,annmariyaj654@gmail.com,18-20,Female,Indian,Kerala,BBA,Urban,Rarely,10000-15000,Residence,Clothing and fashion,Amazon,₹6000-₹8000,Product reviews/ratings,Better customer service,3
+10/13/2023 0:57:01,aaryan.kolekar@bbabah.christuniversity.in,18-20,Male,Indian,Maharashtra,BBA,Urban,Rarely,10000-15000,Thicket ,Clothing and fashion,Amazon,₹2000-₹4000,Brand reputation,Faster delivery,4
+10/13/2023 0:57:36,aruna.ajay@bbabah.christuniversity.in,18-20,Female,Indian,Kerala,BBA,Urban,Monthly,More than 20000,Residence,Clothing and fashion,Myntra,₹6000-₹8000,Promotions and discounts,Improved website/app usability,4
+10/13/2023 0:58:06,nazia.aafreen@bbabah.christuniversity.in,20-22,Female,Indian,Telangana,BBA,Urban,Monthly,5000-10000,Celebrations,Groceries,Amazon,₹2000-₹4000,Price,Faster delivery,3
+10/13/2023 0:58:11,mahima.sanghvi@bba.christuniversity.in,18-20,Female,Indian,Maharashtra,BBA,Urban,Monthly,10000-15000,Celebrations,Clothing and fashion,Myntra,₹6000-₹8000,Brand reputation,Faster delivery,4
+10/13/2023 0:58:42,aman.suhag@bds.christuniversity.in,20-22,Female,Indian,Haryana,BSc DS,Urban,Never,0-5000,Private,Clothing and fashion,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,5
+10/13/2023 1:00:25,anshu.priya@law.christuniversity.in,18-20,Female,Indian,Bihar,BA LLb,Urban,Monthly,10000-15000,Private,Clothing and fashion,Myntra,₹2000-₹4000,Brand reputation,Faster delivery,4
+10/13/2023 1:00:43,sushrut.panjagall@law.christuniversity.in,20-22,Male,Indian,Karnataka,BA LLb,Urban,Monthly,More than 20000,Portofino,Clothing and fashion,Myntra,₹4000-₹6000,Shipping speed and cost,Faster delivery,3
+10/13/2023 1:01:14,atharva.vetal@msds.christuniversity.in,20-22,Male,Indian,Maharashtra,MSc DS,Urban,Monthly,5000-10000,Private,Clothing and fashion,Flipkart,₹2000-₹4000,Product reviews/ratings,Better customer service,3
+10/13/2023 1:05:07,bikkina.kushalika@bbabah.christuniversity.in,16-18,Female,Indian,Andhra Pradesh,BBA,Urban,Rarely,5000-10000,Celebrations,Clothing and fashion,Amazon,₹4000-₹6000,Promotions and discounts,Faster delivery,3
+10/13/2023 1:05:40,thamizhanbu.e@msds.christuniversity.in,22-24,Male,Indian,Tamil Nadu,MSc DS,Urban,Monthly,5000-10000,Portofino,Electronics,Amazon,₹2000-₹4000,Price,More product variety,3
+10/13/2023 1:42:34,tanuja.gupta@msds.christuniversity.in,20-22,Female,Indian,Assam,MSc DS,Rural,Weekly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/13/2023 1:49:30,kripan.jp@bcomfah.christuniversity.in,16-18,Male,Indian,Kerala,BBA,Urban,Daily,0-5000,Villa,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,Better customer service,4
+10/13/2023 1:52:16,nevin.vijils@law.christuniversity.in,16-18,Male,Indian,Kerala,BA LLb,Urban,Monthly,5000-10000,Residence,Clothing and fashion,Amazon,₹2000-₹4000,Brand reputation,Faster delivery,5
+10/13/2023 5:45:52,trikalagga.saha@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Urban,Monthly,More than 20000,Celebrations,Groceries,Amazon,₹4000-₹6000,Brand reputation,More product variety,1
+10/13/2023 7:51:58,yashi.s@msds.christuniversity.in,20-22,Female,Indian,Uttar Pradesh,MSc DS,Urban,Monthly,5000-10000,Residence,Clothing and fashion,Myntra,0-₹2000,Price,Faster delivery,4
+10/13/2023 8:41:24,francisjose@mba.christuniversity.in,20-22,Male,Indian,Kerala,MBA,Urban,Rarely,0-5000,Hill view cresent ,Electronics,Amazon,0-₹2000,Brand reputation,Better customer service,4
+10/13/2023 9:18:45,kingsuk.rakshit@msds.christuniversity.in,22-24,Male,Indian,West Bengal,MSc DS,Urban,Monthly,5000-10000,Residence,Clothing and fashion,Amazon,₹4000-₹6000,Price,Better customer service,5
+10/13/2023 9:45:38,leenasah85@gmail.com,20-22,Female,Indian,Bihar,BBA,Urban,Monthly,5000-10000,Private,Clothing and fashion,Others,₹2000-₹4000,Price,More product variety,5
+10/13/2023 10:37:47,abin.roy@science.christuniversity.in,20-22,Male,Indian,Delhi,MSc DS,Urban,Rarely,5000-10000,Thicket ,Electronics,Flipkart,₹2000-₹4000,Promotions and discounts,Better customer service,4
+10/13/2023 10:39:05,nishi.singh@msds.christuniversity.in,>24,Female,Indian,Gujarat,MSc DS,Urban,Monthly,0-5000,Residence,Others,Amazon,₹2000-₹4000,Shipping speed and cost,More product variety,3
+10/13/2023 10:39:11,lakshay.singh1@gmail.com,20-22,Male,Indian,Uttar Pradesh,MSc DS,Urban,Never,0-5000,Private,Others,Flipkart,0-₹2000,Shipping speed and cost,Faster delivery,5
+10/13/2023 12:05:28,maddu.morries@msds.christuniversity.in,20-22,Male,Indian,Andhra Pradesh,MSc DS,Urban,Rarely,5000-10000,Portofino,Electronics,Amazon,₹2000-₹4000,Promotions and discounts,Better customer service,3
+10/13/2023 13:02:37,adharsh.jaison@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Villa,Electronics,Flipkart,₹4000-₹6000,Price,Faster delivery,3
+10/13/2023 13:03:19,joice.mathew@science.christuniversity.in,20-22,Female,Indian,Karnataka,MSc EA,Urban,Rarely,5000-10000,Portofino,Clothing and fashion,Myntra,0-₹2000,Price,Faster delivery,3
+10/13/2023 13:07:20,fahim.kunnath@bcomfan.christuniversity.in,20-22,Male,Indian,Kerala,BBA,Urban,Rarely,5000-10000,Private,Electronics,Amazon,0-₹2000,Price,More product variety,4
+10/13/2023 13:21:14,satyamk2582@gmail.com,18-20,Male,Indian,Bihar,BA LLb,Urban,Rarely,5000-10000,Private,Groceries,Flipkart,0-₹2000,Shipping speed and cost,Better customer service,4
+10/13/2023 13:22:05,sg02122002@gmail.com,20-22,Male,Indian,Punjab,BA LLb,Urban,Weekly,5000-10000,Portofino,Clothing and fashion,Flipkart,₹2000-₹4000,Shipping speed and cost,Better customer service,4
+10/13/2023 13:23:41,devi.vp@law.christuniversity.in,22-24,Female,Indian,Kerala,BA LLb,Urban,Monthly,15000-20000,Private,Clothing and fashion,Amazon,₹2000-₹4000,Product reviews/ratings,Improved website/app usability,4
+10/13/2023 13:30:16,cj.lakshmy@msea.christuniversity.in,20-22,Female,Indian,Kerala,MSc EA,Urban,Rarely,5000-10000,Residence,Books,Amazon,0-₹2000,Price,More product variety,4
+10/13/2023 13:55:09,lingesh.m@msds.christuniversity.in,22-24,Male,Indian,Tamil Nadu,MSc DS,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,0-₹2000,Product reviews/ratings,Better customer service,4
+10/13/2023 14:08:46,abin.roy@science.christuniversity.in,20-22,Male,Indian,Delhi,MSc DS,Urban,Rarely,5000-10000,Thicket ,Electronics,Flipkart,₹2000-₹4000,Promotions and discounts,Better customer service,3
+10/13/2023 14:13:34,moimoiixralte@gmail.com,20-22,Female,Indian,Mizoram,MSc DS,Urban,Weekly,More than 20000,Celebrations,Beauty and cosmetics,Amazon,₹2000-₹4000,Product reviews/ratings,More product variety,4
+10/13/2023 18:06:08,varun.pillalamarri@msds.christuniversity.in,22-24,Male,Indian,Telangana,MSc DS,Urban,Weekly,More than 20000,Private,Clothing and fashion,Amazon,More than 8000,Product reviews/ratings,Faster delivery,4
+10/13/2023 18:44:27,evana.td@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Portofino,Clothing and fashion,Flipkart,0-₹2000,Price,Faster delivery,3
+10/13/2023 19:40:39,saristha.saha@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Urban,Rarely,5000-10000,Residence,Beauty and cosmetics,Amazon,0-₹2000,Promotions and discounts,Improved website/app usability,4
+10/14/2023 0:11:17,ansel.paul@msds.christuniversity.in,20-22,Male,NRI,Goa,MSc DS,Urban,Monthly,15000-20000,Villa,Electronics,Amazon,₹4000-₹6000,Product reviews/ratings,Better customer service,4
+10/14/2023 9:44:53,leran.carvalho@msds.christuniversity.in,20-22,Male,Indian,Goa,MSc DS,Rural,Monthly,0-5000,Private,Electronics,Amazon,0-₹2000,Promotions and discounts,Faster delivery,3
+10/14/2023 9:45:25,anand.kj@msds.christuniversity.in,22-24,Male,Indian,Kerala,MSc DS,Urban,Monthly,5000-10000,Villa,Electronics,Flipkart,₹2000-₹4000,Promotions and discounts,More product variety,5
+10/14/2023 9:50:12,aditya.singh@msds.christuniversity.in,20-22,Male,Indian,Bihar,MSc DS,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,₹4000-₹6000,Brand reputation,Faster delivery,4
+10/14/2023 11:01:57,parameswaran.a@bds.christuniversity.in,18-20,Male,Indian,Tamil Nadu,BSc DS,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,0-₹2000,Product reviews/ratings,Better customer service,3
+10/14/2023 11:14:59,jaise.george@msds.christuniversity.in,18-20,Male,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Villa,Electronics,Flipkart,0-₹2000,Promotions and discounts,Faster delivery,4
+10/14/2023 20:48:28,swtykadyan@gmail.com,>24,Female,Indian,Haryana,MSc DS,Urban,Weekly,More than 20000,Private,Others,Amazon,₹4000-₹6000,Product reviews/ratings,Faster delivery,3
+10/17/2023 8:05:43,jyosna.philip@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Rural,Monthly,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Price,Faster delivery,3
+10/17/2023 8:09:55,leran.carvalho@msds.christuniversity.in,20-22,Male,Indian,Goa,MSc DS,Rural,Rarely,0-5000,Private,Electronics,Amazon,₹2000-₹4000,Shipping speed and cost,Faster delivery,3
+10/17/2023 8:56:54,itsmeakash4706@gmail.com,20-22,Male,Indian,Kerala,MSc DS,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,0-₹2000,Shipping speed and cost,Faster delivery,4
+10/17/2023 9:13:08,tanisha.agarwal@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Rural,Monthly,5000-10000,Celebrations,Clothing and fashion,Flipkart,0-₹2000,Promotions and discounts,Faster delivery,4
+10/17/2023 9:27:45,souvik.chowdhury@msds.christuniversity.in,>24,Male,Indian,West Bengal,MSc DS,Urban,Rarely,0-5000,Villa,Clothing and fashion,Flipkart,0-₹2000,Promotions and discounts,Faster delivery,4
+10/17/2023 10:28:20,jeffinshaji.s@msds.christuniversity.in,>24,Male,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Thicket,Electronics,Flipkart,0-₹2000,Price,Faster delivery,4
+10/17/2023 10:42:40,hiranlal.h@science.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Rarely,5000-10000,Villa,Electronics,Flipkart,₹4000-₹6000,Shipping speed and cost,Faster delivery,3
+10/17/2023 10:55:55,athul.kumar@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Rural,Monthly,10000-15000,Private,Others,Flipkart,0-₹2000,Price,Faster delivery,3
+10/17/2023 11:08:16,shibin.joseph@mba.christuniversity.in,20-22,Male,Indian,Kerala,MBA,Urban,Monthly,5000-10000,Villa,Electronics,Amazon,0-₹2000,Price,Improved website/app usability,4
+10/17/2023 11:11:58,arjun.dinesh@msam.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Monthly,5000-10000,Private,Electronics,Flipkart,₹2000-₹4000,Brand reputation,Better customer service,4
+10/17/2023 11:12:27,dipanwita.das@science.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Urban,Monthly,10000-15000,Portofino,Clothing and fashion,Amazon,₹2000-₹4000,Product reviews/ratings,More product variety,4
+10/17/2023 13:00:23,mubashir.salim@msds.christuniversity.in,18-20,Male,Indian,Himachal Pradesh,MSc DS,Rural,Rarely,10000-15000,Villa,Electronics,Amazon,0-₹2000,Product reviews/ratings,More product variety,3
+10/17/2023 13:00:24,aman.singh@msds.christuniversity.in,20-22,Male,Indian,Delhi,MSc DS,Urban,Weekly,More than 20000,Portofino,Clothing and fashion,Myntra,₹6000-₹8000,Shipping speed and cost,More product variety,5
+10/17/2023 13:31:10,sarnalika.paul@msds.christuniversity.in,22-24,Female,Indian,West Bengal,MSc DS,Urban,Monthly,5000-10000,private,Clothing and fashion,Myntra,0-₹2000,Brand reputation,Faster delivery,3
+10/17/2023 14:06:57,pratick.bhattacharjee@mba.christuniversity.in,22-24,Male,Indian,West Bengal,MBA,Urban,Monthly,5000-10000,Villa,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,More product variety,4
+10/17/2023 14:32:35,yashikajain3529@gmail.com,20-22,Female,Indian,Delhi,MSc DS,Urban,Monthly,15000-20000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Promotions and discounts,More product variety,4
+10/17/2023 16:18:24,sampadha.varanasi@msea.christuniversity.in,20-22,Female,Indian,Odisha,MSc EA,Rural,Monthly,5000-10000,Celebrations,Clothing and fashion,Myntra,₹2000-₹4000,Shipping speed and cost,Faster delivery,4
+10/17/2023 16:18:52,v.sravani@msds.christuniversity.in,20-22,Female,Indian,Telangana,MSc DS,Urban,Rarely,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Brand reputation,Faster delivery,3
+10/17/2023 16:20:22,adharsh.jaison@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Villa,Electronics,Flipkart,₹2000-₹4000,Price,More product variety,3
+10/17/2023 16:20:41,aditya.singh@msds.christuniversity.in,20-22,Male,Indian,Bihar,MSc DS,Urban,Monthly,5000-10000,Villa,Electronics,Amazon,₹4000-₹6000,Product reviews/ratings,Faster delivery,3
+10/17/2023 16:22:20,stuty.das@msds.christuniversity.in,20-22,Female,Indian,Assam,MSc DS,Urban,Monthly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/17/2023 16:22:52,mubashir.salim@msds.christuniversity.in,18-20,Male,Indian,Himachal Pradesh,MSc DS,Rural,Rarely,10000-15000,Villa,Electronics,Amazon,₹4000-₹6000,Shipping speed and cost,More product variety,3
+10/17/2023 16:44:32,yashi.s@msds.christuniversity.in,20-22,Female,Indian,Uttar Pradesh,MSc DS,Urban,Monthly,5000-10000,Celebrations,Clothing and fashion,Myntra,0-₹2000,Price,Faster delivery,3
+10/17/2023 16:52:37,parul.sharma@msds.christuniversity.in,22-24,Female,Indian,Uttar Pradesh,MSc DS,Urban,Monthly,5000-10000,Celebrations,Others,Amazon,₹4000-₹6000,Brand reputation,Faster delivery,3
+10/17/2023 19:03:25,sreelakshmi.ansu@gmail.com,22-24,Female,Indian,Kerala,BA LLb,Urban,Monthly,10000-15000,Private,Clothing and fashion,Amazon,0-₹2000,Brand reputation,Better customer service,5
+10/17/2023 19:11:14,romal.thomas@msds.christuniversity.in,22-24,Male,Indian,Kerala,MSc DS,Urban,Rarely,0-5000,Private,Clothing and fashion,Flipkart,0-₹2000,Price,More product variety,4
+10/17/2023 20:16:49,divyank.yadav@msea.christuniversity.in,20-22,Male,Indian,Uttar Pradesh,MSc EA,Urban,Monthly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Promotions and discounts,Better customer service,4
+10/17/2023 22:35:23,nilanjana.dey@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Urban,Monthly,0-5000,Residence,Groceries,Amazon,0-₹2000,Product reviews/ratings,More product variety,4
+10/18/2023 1:02:50,akhilesh.gothwal@msgfa.christuniversity.in,22-24,Male,Indian,Rajasthan,MSc GFA,Urban,Monthly,5000-10000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Stress,More product variety,5
+10/18/2023 22:05:01,kiranraj2002@gmail.com,20-22,Male,Indian,Kerala,MSc DS,Urban,Monthly,0-5000,Villa,Clothing and fashion,Amazon,0-₹2000,Price,Faster delivery,5
+10/18/2023 22:31:30, avanigadda.kamalaaksh@msds.christuniversity.in,20-22,Male,Indian,Tamil Nadu,MSc DS,Urban,Rarely,0-5000,Portofino,Groceries,Myntra,₹2000-₹4000,Price,Faster delivery,4
+10/19/2023 15:56:30,john.thattil@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Rural,Rarely,5000-10000,Villa,Clothing and fashion,Flipkart,0-₹2000,Promotions and discounts,Better customer service,3
+10/19/2023 16:02:57,swastik.roy@msds.christuniversity.in,20-22,Male,Indian,West Bengal,MSc DS,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,0-₹2000,Price,Better customer service,5
+10/19/2023 16:03:37,ujan.galui@science.christuniversity.in,20-22,Male,Indian,West Bengal,MSc DS,Urban,Daily,More than 20000,Private,Electronics,Amazon,More than 8000,Promotions and discounts,Improved website/app usability,5
+10/19/2023 16:05:19,alwin.joseph@christuniversity.in,>24,Male,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Villa,Electronics,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,3
+10/19/2023 16:11:05,sudeshna.ghosh@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Rural,Monthly,5000-10000,Celebrations,Groceries,Myntra,₹6000-₹8000,Promotions and discounts,Better customer service,4
+10/19/2023 16:11:31,ardra.ks@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Residence,Beauty and cosmetics,Amazon,0-₹2000,Brand reputation,Improved website/app usability,4
+10/19/2023 16:12:23,sandeep.kumar@science.christuniversity.in,16-18,Male,Indian,Goa,BA LLb,Urban,Daily,15000-20000,Celebrations,Electronics,Myntra,₹6000-₹8000,Stress,More product variety,1
+10/19/2023 16:13:18,sukanna.das@msds.christuniversity.in,20-22,Female,Indian,West Bengal,MSc DS,Urban,Monthly,0-5000,Residence,Clothing and fashion,Flipkart,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/19/2023 16:43:05,annet.jacob@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Monthly,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,3
+10/19/2023 17:01:45,sanjana.sengar@msds.christuniversity.in,20-22,Male,Indian,Maharashtra,MSc DS,Rural,Monthly,0-5000,Residence,Clothing and fashion,Myntra,0-₹2000,Price,More product variety,3
+10/19/2023 18:37:07,narpat.kumar@msds.christuniversity.in,20-22,Male,Indian,Andhra Pradesh,MSc DS,Urban,Monthly,0-5000,Residence,Clothing and fashion,Amazon,₹2000-₹4000,Price,More product variety,3
+10/19/2023 18:47:38,aditi.kapil@msds.christuniversity.in,20-22,Female,Indian,Karnataka,MSc DS,Rural,Monthly,10000-15000,Thicket ,Clothing and fashion,Amazon,0-₹2000,Price,Faster delivery,4
+10/19/2023 18:53:27,sanjeev.pandey@msds.christuniversity.in,20-22,Male,Indian,Bihar,MSc DS,Rural,Rarely,0-5000,Private,Clothing and fashion,Amazon,0-₹2000,Brand reputation,More product variety,4
+10/19/2023 22:14:28,karthik.unnithan@msgfa.christuniversity.in,22-24,Male,Indian,Kerala,MSc GFA,Urban,Rarely,0-5000,Residence,Books,Amazon,0-₹2000,Product reviews/ratings,More product variety,4
+10/19/2023 22:18:20,siddhi.jhanwar@ecoa.christuniversity.in,18-20,Female,Indian,Rajasthan,BSc EA,Urban,Monthly,5000-10000,Portofino,Clothing and fashion,Myntra,0-₹2000,Price,Faster delivery,3
+10/19/2023 22:27:04,mankan515@gmail.com,20-22,Male,Indian,Tamil Nadu,MBA,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,0-₹2000,Promotions and discounts,Faster delivery,3
+10/19/2023 22:27:41,yaswanth0512@gmail.com,20-22,Male,Indian,Tamil Nadu,MBA,Urban,Rarely,5000-10000,Hill view,Groceries,Amazon,0-₹2000,Price,Better customer service,5
+10/19/2023 22:27:48,alengrowalmss@gmail.com,22-24,Female,Indian,Kerala,MBA,Rural,Monthly,5000-10000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,4
+10/19/2023 22:28:28,v.manikandan@mba.christuniversity.in,20-22,Male,Indian,Tamil Nadu,MBA,Urban,Rarely,5000-10000,Villa,Electronics,Amazon,0-₹2000,Price,Faster delivery,3
+10/19/2023 22:38:35,mary.analiya@mba.christuniversity.in,20-22,Female,Indian,Kerala,MBA,Urban,Monthly,5000-10000,Residence,Clothing and fashion,Amazon,0-₹2000,Price,Faster delivery,3
+10/19/2023 22:40:32,jatinverma242004@gmail.com,18-20,Male,Indian,Rajasthan,BBA,Urban,Daily,5000-10000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Promotions and discounts,More product variety,5
+10/20/2023 0:56:46,vinjarapumanojkumar@gmail.com,18-20,Male,Indian,Andhra Pradesh,BBA,Urban,Weekly,15000-20000,Portofino,Clothing and fashion,Amazon,₹2000-₹4000,Price,Faster delivery,4
+10/20/2023 8:29:25,naveen.krishna@msds.christuniversity.in,20-22,Male,Indian,Kerala,MSc DS,Urban,Monthly,10000-15000,Villa,Groceries,Myntra,₹4000-₹6000,Brand reputation,More product variety,4
+10/20/2023 14:37:10,fathimathul.ali@science.christuniversity.in,20-22,Female,NRI,Kerala,MSc DS,Urban,Rarely,0-5000,Private,Clothing and fashion,Flipkart,0-₹2000,Price,Faster delivery,3
+10/20/2023 19:09:54,prakruthi.rai@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Urban,Monthly,5000-10000,Villa,Clothing and fashion,Amazon,₹4000-₹6000,Shipping speed and cost,More product variety,5
+10/20/2023 20:34:01,punjabi.karan@msds.christuniversity.in,20-22,Female,Indian,Kerala,MSc DS,Rural,Rarely,0-5000,Celebrations,Groceries,Myntra,0-₹2000,Price,More product variety,4
+10/20/2023 21:39:24,muskan.jain@msds.christuniversity.in,22-24,Male,Indian,Kerala,MSc DS,Urban,Monthly,0-5000,Villa,Groceries,Amazon,₹2000-₹4000,Price,Faster delivery,4
+10/20/2023 22:09:02,yuvraj.giri@msds.christuniversity.in,20-22,Male,Indian,Punjab,MSc DS,Urban,Daily,0-5000,Portofino,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,Faster delivery,3
+10/21/2023 8:20:41,kavya.anil@bds.christuniversity.in,18-20,Female,Indian,Maharashtra,BSc DS,Urban,Rarely,5000-10000,Portofino,Clothing and fashion,Amazon,0-₹2000,Price,More product variety,4
+10/21/2023 8:23:09,sisira.manoj@ecoa.christuniversity.in,20-22,Female,Indian,Kerala,BSc EA,Urban,Rarely,15000-20000,Private,Clothing and fashion,Amazon,0-₹2000,Product reviews/ratings,More product variety,4
+10/21/2023 8:24:34,niveditha.annamalai@ecoa.christuniversity.in,20-22,Female,Indian,Maharashtra,BSc EA,Urban,Rarely,5000-10000,Private,Clothing and fashion,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,4
+10/21/2023 8:24:48,indu.pv@msea.christuniversity.in,20-22,Female,Indian,Kerala,MSc EA,Rural,Rarely,0-5000,Residence,Others,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,2
+10/21/2023 8:25:59,aleena.biju@bds.christuniversity.in,18-20,Female,Indian,Maharashtra,BSc DS,Urban,Monthly,10000-15000,Portofino,Beauty and cosmetics,Amazon,0-₹2000,Product reviews/ratings,Better customer service,4
+10/21/2023 8:26:31,chilakapati.yashwanth@bds.christuniversity.in,18-20,Male,Indian,Telangana,BSc DS,Urban,Monthly,0-5000,Private,Books,Amazon,₹2000-₹4000,Stress,Faster delivery,1
+10/21/2023 8:26:41,abhishek.nag@bds.christuniversity.in,20-22,Male,Indian,Jharkhand,BSc DS,Urban,Rarely,10000-15000,Portofino,Electronics,Flipkart,0-₹2000,Brand reputation,Faster delivery,2
+10/21/2023 8:27:43,nibin.sebastian@bds.christuniversity.in,18-20,Male,Indian,Maharashtra,BSc DS,Urban,Rarely,5000-10000,Private,Clothing and fashion,Myntra,0-₹2000,Brand reputation,Better customer service,4
+10/22/2023 11:34:30,studyamit494@gmail.com,>24,Male,Indian,Delhi,MSc DS,Urban,Rarely,5000-10000,Private,Books,Amazon,0-₹2000,Product reviews/ratings,More product variety,4
+10/22/2023 11:34:35,harshsharma78388@gmail.com,>24,Male,Indian,Delhi,BSc DS,Urban,Daily,More than 20000,Residence,Clothing and fashion,Myntra,More than 8000,Price,Faster delivery,5
+10/22/2023 11:35:23,shivanibarhelass@gmail.com,22-24,Female,Indian,Delhi,BA LLb,Urban,Monthly,More than 20000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Product reviews/ratings,Improved website/app usability,4
+10/22/2023 11:39:51,smnkhn81@gmail.com,>24,Female,Indian,Delhi,BSc EA,Urban,Weekly,More than 20000,Private,Clothing and fashion,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,2
+10/22/2023 11:41:16,archooncom@gmail.com,22-24,Male,Indian,Delhi,MBA,Urban,Monthly,5000-10000,Private,Clothing and fashion,Myntra,0-₹2000,Price,Faster delivery,3
+10/22/2023 11:41:42,shivanshsharma0017@gmail.com,18-20,Male,Indian,Gujarat,BA LLb,Rural,Daily,10000-15000,Villa,Beauty and cosmetics,Myntra,More than 8000,Brand reputation,Improved website/app usability,3
+10/22/2023 11:42:26,shuklniti@gmail.com,>24,Female,Indian,Uttar Pradesh,BA LLb,Urban,Rarely,More than 20000,Private,Electronics,Myntra,₹2000-₹4000,Product reviews/ratings,Better customer service,4
+10/22/2023 11:45:09,ujjwalaneja2000@gmail.com,20-22,Male,Indian,Gujarat,MSc GFA,Urban,Daily,More than 20000,Residence,Electronics,Amazon,₹6000-₹8000,Price,Faster delivery,4
+10/22/2023 11:54:56,somsharma1770@gmail.com,>24,Female,Indian,Delhi,MBA,Urban,Monthly,More than 20000,Residence,Beauty and cosmetics,Amazon,0-₹2000,Shipping speed and cost,More product variety,4
+10/22/2023 12:09:51,vh.raghav.singh@gmail.com,>24,Male,Indian,Delhi,MBA,Urban,Weekly,More than 20000,Villa,Electronics,Amazon,More than 8000,Product reviews/ratings,Better customer service,4
+10/22/2023 12:16:37,massiyunus133@gmail.com,>24,Male,Indian,Uttar Pradesh,BBA,Urban,Monthly,5000-10000,Private,Clothing and fashion,Amazon,0-₹2000,Price,Improved website/app usability,4
+10/22/2023 12:30:40,shonalee092@gmail.com,20-22,Female,Indian,Uttarakhand,MSc DS,Urban,Monthly,0-5000,Residence,Clothing and fashion,Amazon,0-₹2000,Product reviews/ratings,Faster delivery,3
+10/22/2023 12:31:47,ashhar009@gmail.com,>24,Male,Indian,Andhra Pradesh,MBA,,Never,0-5000,Residence,Books,Snapdeal,More than 8000,Stress,Improved website/app usability,1
+10/22/2023 12:39:47,farhanjeelani707@gmail.com,22-24,Male,Indian,Uttar Pradesh,BSc DS,,Weekly,15000-20000,Residence,Clothing and fashion,Amazon,₹2000-₹4000,Shipping speed and cost,Better customer service,4
+10/22/2023 14:44:27,shivangi.sharma@msds.christuniversity.in,22-24,Female,Indian,Delhi,MSc DS,Urban,Rarely,10000-15000,Celebrations,Clothing and fashion,Myntra,More than 8000,Promotions and discounts,More product variety,4
+10/22/2023 14:50:13,ruchi.awasthi1995@gmail.com,>24,Female,Indian,Uttar Pradesh,BA LLb,Urban,Weekly,10000-15000,Private,Others,Myntra,₹4000-₹6000,Product reviews/ratings,More product variety,3
+10/22/2023 14:57:27,abhishekgeela01@gmail.com,>24,Male,Indian,Delhi,MSc DS,Urban,Rarely,15000-20000,Residence,Books,Myntra,₹4000-₹6000,Brand reputation,Improved website/app usability,4
+10/22/2023 15:00:14,anujgupta61096@gmail.com,>24,Male,Indian,Delhi,BBA,Urban,Weekly,5000-10000,Private,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,3
+10/22/2023 15:02:16,ucumesh19@gmail.com,>24,Male,Indian,Delhi,BSc DS,Urban,Weekly,More than 20000,Private,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,Improved website/app usability,4
+10/22/2023 15:06:20,mrinal.awasthi1997@gmail.com,>24,Male,Indian,Karnataka,MBA,Urban,Monthly,More than 20000,Villa,Books,Flipkart,₹2000-₹4000,Product reviews/ratings,Faster delivery,1
+10/22/2023 15:12:42,abhishekgeela1998@gmail.com,20-22,Male,Indian,Rajasthan,MBA,Urban,Monthly,15000-20000,Portofino,Books,Myntra,₹6000-₹8000,Promotions and discounts,More product variety,4
+10/22/2023 15:13:38,sharmaavdesh1967@gmail.com,>24,Male,Indian,Delhi,MSc DS,Urban,Weekly,More than 20000,Private,Groceries,Amazon,0-₹2000,Price,Faster delivery,4
+10/22/2023 15:13:50,samsu8034@gmail.com,22-24,Male,Indian,Delhi,BSc DS,Urban,Weekly,0-5000,Residence,Electronics,Flipkart,₹2000-₹4000,Price,Faster delivery,3
+10/22/2023 15:15:28,ramgeela@gmail.com,22-24,Male,Indian,Goa,BA LLb,Urban,Weekly,10000-15000,Private,Books,Snapdeal,₹4000-₹6000,Promotions and discounts,Better customer service,5
+10/22/2023 15:17:06,arpitkalkhanday4@gmail.com,22-24,Male,Indian,Delhi,BA LLb,Rural,Monthly,15000-20000,Residence,Clothing and fashion,Amazon,₹6000-₹8000,Price,More product variety,4
+10/22/2023 15:19:43,guliamanoj02@gmail.com,16-18,Male,Indian,Delhi,BBA,Urban,Rarely,More than 20000,Private,Electronics,Amazon,₹4000-₹6000,Price,Better customer service,4
+10/22/2023 15:21:22,vipulvipsgupta98@gmail.com,>24,Male,Indian,Delhi,MBA,Urban,Monthly,5000-10000,Private,Clothing and fashion,Amazon,0-₹2000,Product reviews/ratings,More product variety,3
+10/22/2023 15:22:16,myfarziid02@gmail.com,22-24,Male,Indian,Bihar,BBA,Rural,Never,10000-15000,Residence,Groceries,Flipkart,₹4000-₹6000,Shipping speed and cost,Better customer service,3
+10/22/2023 15:22:53,trikalagga.saha@msds.christuniversity.in,20-22,Female,Indian,Tripura,MSc DS,Urban,Weekly,More than 20000,Celebrations,Groceries,Amazon,₹4000-₹6000,Brand reputation,Faster delivery,5
+10/22/2023 15:23:35,gagamanga4@gmail.com,22-24,Male,Indian,Rajasthan,BSc EA,Urban,Daily,More than 20000,Residence,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,More product variety,2
+10/22/2023 15:25:31,gautamkavya124@gmail.com,22-24,Male,Indian,Delhi,MBA,Urban,Monthly,More than 20000,Residence,Clothing and fashion,Amazon,₹2000-₹4000,Brand reputation,Faster delivery,4
+10/22/2023 15:25:35,mamtatakhar02@gmail.com,22-24,Female,Indian,Rajasthan,BSc DS,Urban,Monthly,5000-10000,Private,Clothing and fashion,Myntra,₹4000-₹6000,Product reviews/ratings,More product variety,4
+10/22/2023 15:28:45,loombasahil444@gmail.com,>24,Male,Indian,Delhi,MBA,Urban,Weekly,15000-20000,Residence,Clothing and fashion,Flipkart,0-₹2000,Promotions and discounts,Faster delivery,3
+10/22/2023 15:29:07,mathemaniacontact@gmail.com,20-22,Male,Indian,Madhya Pradesh,MSc EA,Urban,Rarely,10000-15000,Private,Groceries,Amazon,₹4000-₹6000,Shipping speed and cost,More product variety,4
+10/22/2023 15:37:38,pradeep1807k@gmail.com,>24,Male,Indian,Rajasthan,BBA,Rural,Rarely,15000-20000,Private,Electronics,Flipkart,0-₹2000,Product reviews/ratings,Better customer service,4
+10/22/2023 15:42:05,manishabujethiya7777@gmail.com,22-24,Female,Indian,Rajasthan,BSc DS,Urban,Monthly,0-5000,None,Books,Amazon,0-₹2000,Product reviews/ratings,More product variety,4
+10/22/2023 16:02:12,tanay.saxena@bbabah.christuniversity.in,18-20,Male,Indian,Uttar Pradesh,BBA,Urban,Monthly,10000-15000,Villa,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,3
+10/22/2023 16:02:49,vansh.marwah@bbafmah.christuniversity.in,18-20,Male,Indian,Uttar Pradesh,BBA,Urban,Daily,More than 20000,Private,Clothing and fashion,Others,₹6000-₹8000,Brand reputation,Faster delivery,4
+10/22/2023 16:05:44,chitturihari.2005@gmail.com,16-18,Male,Indian,Andhra Pradesh,BBA,Urban,Daily,5000-10000,Residence,Clothing and fashion,Amazon,0-₹2000,Brand reputation,More product variety,3
+10/22/2023 16:20:04,sumeetkumbhare46@gmail.com,20-22,Male,Indian,Madhya Pradesh,MSc EA,Rural,Rarely,More than 20000,Villa,Electronics,Flipkart,More than 8000,Price,Better customer service,5
+10/22/2023 16:28:32,shivamthakur777@gmail.com,>24,Male,Indian,Uttar Pradesh,BSc DS,Urban,Monthly,5000-10000,Private,Clothing and fashion,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,4
+10/22/2023 16:29:13,leonsk629@gmail.com,22-24,Male,Indian,Maharashtra,BA LLb,Urban,Monthly,More than 20000,Villa,Electronics,Flipkart,More than 8000,Product reviews/ratings,Faster delivery,3
+10/22/2023 16:33:40,sonysamanta652@gmail.com,22-24,Female,Indian,Odisha,MSc DS,Rural,Daily,5000-10000,Celebrations,Electronics,Flipkart,0-₹2000,Price,Faster delivery,4
+10/22/2023 16:36:16,mjmeena123456@gmail.com,22-24,Male,Indian,Rajasthan,BBA,Urban,Daily,15000-20000,Villa,Clothing and fashion,Flipkart,₹2000-₹4000,Shipping speed and cost,Better customer service,3
+10/22/2023 16:47:52,rodda.sathvika@msds.christuniversity.in,18-20,Female,Indian,Telangana,MSc DS,Urban,Rarely,0-5000,Residence,Others,Flipkart,0-₹2000,Price,Improved website/app usability,3
+10/22/2023 17:03:12,chotikumargond@gmail.com,16-18,Female,NRI,Gujarat,MBA,Rural,Daily,0-5000,Celebrations,Electronics,Amazon,0-₹2000,Price,Faster delivery,1
+10/22/2023 17:08:38,meeramittal891@gmail.com,20-22,Female,Indian,Rajasthan,MSc DS,Rural,Monthly,0-5000,Residence,Clothing and fashion,Flipkart,0-₹2000,Price,More product variety,3
+10/22/2023 17:50:40,keshavmg97@gmail.com,22-24,Male,Indian,Delhi,MBA,Urban,Monthly,5000-10000,Residence,Groceries,Flipkart,₹4000-₹6000,Price,Faster delivery,4
+10/22/2023 18:03:55,singhprerna305@gmail.com,>24,Female,Indian,Delhi,BBA,Urban,Rarely,More than 20000,Private,Electronics,Amazon,More than 8000,Promotions and discounts,Better customer service,4
+10/22/2023 19:14:27,tanuja.gupta@msds.christuniversity.in,20-22,Female,Indian,Assam,MSc DS,Urban,Weekly,10000-15000,Residence,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,4
+10/22/2023 22:43:06,chekprateek@gmail.com,>24,Male,NRI,Uttar Pradesh,MSc DS,Urban,Daily,0-5000,Celebrations,Electronics,Amazon,0-₹2000,Price,Faster delivery,1
+10/22/2023 22:57:24,britto.fernandes@msds.christuniversity.in,20-22,Male,Indian,Goa,MSc DS,Urban,Monthly,10000-15000,Private,Electronics,Amazon,₹6000-₹8000,Product reviews/ratings,Faster delivery,4
+10/23/2023 12:01:39,abhishekgeela@gmail.com,22-24,Male,Indian,Haryana,MBA,Rural,Weekly,5000-10000,Villa,Electronics,Flipkart,₹2000-₹4000,Shipping speed and cost,Better customer service,3
+10/23/2023 12:03:56,rahulgujjarktp005@gmail.com,18-20,Male,Indian,Rajasthan,MBA,Rural,Rarely,5000-10000,Celebrations,Books,Flipkart,₹4000-₹6000,Price,Better customer service,3
+10/23/2023 12:34:49,thanseeraa0@gmail.com,18-20,Male,Indian,Kerala,MBA,Rural,Daily,0-5000,Private,Electronics,Amazon,0-₹2000,Price,Faster delivery,4
+10/23/2023 12:40:15,raikwarvishal930@gmail.com,22-24,Male,Indian,Madhya Pradesh,MBA,Rural,Daily,More than 20000,Villa,Electronics,Myntra,More than 8000,Stress,Other (please specify),1
+10/23/2023 12:41:06,divyasolanki3108@gmail.com,>24,Female,Indian,Delhi,MSc DS,Urban,Monthly,0-5000,Residence,Clothing and fashion,Flipkart,0-₹2000,Shipping speed and cost,Better customer service,4
+10/23/2023 12:42:00,ndnehal352@gmail.com,16-18,Male,NRI,Bihar,MSc DS,Urban,Daily,0-5000,Celebrations,Electronics,Flipkart,0-₹2000,Price,Faster delivery,1
+10/23/2023 12:49:32,vikashv16387@gmail.com,>24,Female,Indian,Bihar,BBA,Urban,Weekly,10000-15000,Villa,Books,Amazon,More than 8000,Stress,Improved website/app usability,4
+10/23/2023 13:08:11,tofanbarik00@gmail.com,>24,Male,Indian,Odisha,BA LLb,Rural,Weekly,15000-20000,Private,Electronics,Amazon,₹4000-₹6000,Product reviews/ratings,More product variety,4
+10/23/2023 13:08:39,madhankumarv101@gmail.com,16-18,Male,Indian,Goa,BBA,Urban,Rarely,0-5000,Residence,Electronics,Amazon,0-₹2000,Price,Faster delivery,1
+10/23/2023 13:39:01,sumangodara64701@gmail.com,16-18,Male,Indian,Maharashtra,BBA,Urban,Never,0-5000,Private,Books,Myntra,0-₹2000,Product reviews/ratings,Faster delivery,3
+10/23/2023 14:02:20,bholehaihum@gmail.com,18-20,Male,Indian,Uttar Pradesh,BBA,Urban,Rarely,10000-15000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Shipping speed and cost,Faster delivery,5
+10/23/2023 14:07:26,sharkshaikh124@gmail.com,16-18,Male,Indian,Maharashtra,BA LLb,Urban,Daily,5000-10000,Residence,Electronics,Amazon,₹2000-₹4000,Product reviews/ratings,Faster delivery,1
+10/23/2023 14:28:35,mrsachin131156@gmail.com,20-22,Female,Indian,Himachal Pradesh,MBA,Rural,Monthly,10000-15000,Portofino,Clothing and fashion,Snapdeal,₹2000-₹4000,Shipping speed and cost,More product variety,2
+10/23/2023 14:50:00,rk6319079@gmail.com,16-18,Male,Indian,Delhi,MBA,Rural,Never,0-5000,Private,Others,Others,0-₹2000,Stress,Other (please specify),5
+10/23/2023 14:52:14,konha687@gmail.com,20-22,Male,Indian,Lakshadweep,MBA,Rural,Monthly,5000-10000,Celebrations,Electronics,Myntra,₹2000-₹4000,Price,Faster delivery,5
+10/23/2023 15:06:12,dishudrawing@gmail.com,22-24,Female,Indian,Jharkhand,BBA,Urban,Monthly,10000-15000,Villa,Electronics,Amazon,₹6000-₹8000,Price,Better customer service,4
+10/23/2023 15:23:17,nidasiddiqi610@gmail.com,20-22,Female,Indian,Rajasthan,MBA,Urban,Monthly,0-5000,Villa,Clothing and fashion,Amazon,₹2000-₹4000,Promotions and discounts,Faster delivery,4
+10/23/2023 15:41:37,parjapativ329@gmail.com,22-24,Male,Indian,Haryana,BA LLb,Rural,Daily,0-5000,Villa,Clothing and fashion,Flipkart,₹6000-₹8000,Promotions and discounts,Better customer service,5
+10/23/2023 15:41:44,abhishekgeela1998@gmail.com,22-24,Male,Indian,Gujarat,BBA,Rural,Weekly,15000-20000,Residence,Clothing and fashion,Flipkart,₹2000-₹4000,Shipping speed and cost,Better customer service,4
+10/23/2023 15:44:38,parjapativ329@gmail.com,16-18,Male,Indian,Haryana,MSc GFA,Rural,Daily,5000-10000,Villa,Clothing and fashion,Amazon,₹4000-₹6000,Shipping speed and cost,Better customer service,4
+10/23/2023 15:46:31,ramgeela85@gmail.com,22-24,Male,Indian,Haryana,MSc GFA,Urban,Monthly,5000-10000,Portofino,Books,Flipkart,₹4000-₹6000,Brand reputation,Improved website/app usability,3
+10/23/2023 18:38:01,nikhil310802006@gmail.com,18-20,Male,Indian,Rajasthan,BA LLb,Rural,Monthly,5000-10000,Private,Electronics,Flipkart,₹2000-₹4000,Price,Faster delivery,1
+10/23/2023 22:13:39,omkumarroa23@gmail.com,20-22,Male,NRI,Chhattisgarh,MSc EA,Rural,Rarely,5000-10000,Villa,Books,Flipkart,0-₹2000,Product reviews/ratings,More product variety,3
+10/23/2023 22:49:39,anishakhamari0100@gmail.com,18-20,Female,Indian,Jharkhand,BSc DS,Rural,Monthly,0-5000,Villa,Clothing and fashion,Myntra,0-₹2000,Shipping speed and cost,More product variety,3
+10/23/2023 22:52:02,edwin.shabu@bcomfah.christuniversity.in,18-20,Male,Indian,Kerala,BBA,Urban,Rarely,0-5000,Residence,Clothing and fashion,Flipkart,₹2000-₹4000,Product reviews/ratings,More product variety,4
+10/23/2023 22:55:51,anju.mathew@law.christuniversity.in,18-20,Female,Indian,Kerala,BA LLb,Rural,Monthly,5000-10000,Portofino,Clothing and fashion,Snapdeal,₹2000-₹4000,Price,More product variety,2
+10/23/2023 23:02:01,sreelakshmi.g@law.christuniversity.in,18-20,Female,Indian,Kerala,BA LLb,Urban,Monthly,0-5000,Villa,Clothing and fashion,Flipkart,₹2000-₹4000,Shipping speed and cost,Better customer service,2
+10/23/2023 23:11:22,jivin.raja@bba.christuniversity.in,18-20,Male,Indian,Gujarat,BBA,Rural,Weekly,0-5000,Villa,Groceries,Flipkart,₹2000-₹4000,Price,More product variety,2
+10/23/2023 23:17:01,ameya.jambhorkar@bba.christuniversity.in,18-20,Male,Indian,Karnataka,BBA,Rural,Monthly,5000-10000,Villa,Electronics,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,3
+10/23/2023 23:25:47,nishita.sharma@christuniversity.in,>24,Female,Indian,Delhi,MSc DS,Urban,Daily,15000-20000,Private,Groceries,Flipkart,₹2000-₹4000,Product reviews/ratings,More product variety,3
+10/23/2023 23:30:23,poojaa.naresh@law.christuniversity.in,18-20,Female,Indian,Goa,BA LLb,Rural,Monthly,5000-10000,Celebrations,Clothing and fashion,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,3
+10/23/2023 23:34:02,vaishnavi.kodavaluru@ecoa.christuniversity.in,18-20,Female,Indian,Haryana,BSc EA,Rural,Weekly,5000-10000,Residence,Clothing and fashion,Flipkart,₹4000-₹6000,Brand reputation,More product variety,3
+10/23/2023 23:37:41,tuhinakhtarakash.013@gmail.com,22-24,Male,Indian,West Bengal,MBA,Urban,Monthly,5000-10000,Residence,Clothing and fashion,Amazon,0-₹2000,Stress,Faster delivery,3
+10/23/2023 23:39:04,smriti.paul@msds.christuniversity.in,18-20,Female,Indian,Jharkhand,MSc DS,Urban,Weekly,5000-10000,Residence,Groceries,Flipkart,0-₹2000,Shipping speed and cost,More product variety,3
+10/23/2023 23:44:08,thanusri.a@law.christuniversity.in,18-20,Female,Indian,Madhya Pradesh,BA LLb,Rural,Monthly,5000-10000,Residence,Electronics,Flipkart,₹4000-₹6000,Price,Better customer service,3
+10/24/2023 0:05:53,bhanuvrat.rajpurohit@law.christuniversity.in,18-20,Male,Indian,Chhattisgarh,BA LLb,Rural,Weekly,0-5000,Villa,Clothing and fashion,Flipkart,0-₹2000,Stress,More product variety,3
+10/24/2023 0:55:02,mary.analiya@mba.christuniversity.in,18-20,Male,Indian,Gujarat,MBA,Urban,Monthly,5000-10000,Residence,Clothing and fashion,Flipkart,₹2000-₹4000,Product reviews/ratings,More product variety,3
+10/24/2023 0:58:16,ch.vishnupriya@bba.christuniversity.in,18-20,Female,Indian,Kerala,BBA,Urban,Monthly,5000-10000,Residence,Groceries,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,3
+10/24/2023 1:01:22,mansa.maheshwari@bba.christuniversity.in,18-20,Female,Indian,Bihar,MBA,Urban,Monthly,5000-10000,Villa,Groceries,Myntra,₹2000-₹4000,Shipping speed and cost,Better customer service,3
+10/24/2023 1:09:07,adrija.saha@law.christuniversity.in,18-20,Female,Indian,Tamil Nadu,BA LLb,Urban,Monthly,5000-10000,Villa,Clothing and fashion,Flipkart,₹2000-₹4000,Shipping speed and cost,More product variety,3
+10/24/2023 1:12:01,Faiza.abid@bbabah.christuniversity.in,18-20,Female,Indian,Assam,BBA,Rural,Monthly,5000-10000,Residence,Groceries,Flipkart,₹2000-₹4000,Product reviews/ratings,Faster delivery,2
+10/24/2023 1:18:36,Prajwal.singh@christuniversity.in,18-20,Male,Indian,Jharkhand,MSc GFA,Rural,Weekly,10000-15000,Portofino,Books,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,3
+10/24/2023 1:23:03,bushra.parveen@bba.christuniversity.in,18-20,Female,Indian,West Bengal,BBA,Rural,Monthly,5000-10000,Residence,Books,Myntra,₹2000-₹4000,Product reviews/ratings,More product variety,2
+10/24/2023 1:25:26,rahul.b@science.christuniversity.in,18-20,Male,Indian,Rajasthan,BSc DS,Urban,Weekly,5000-10000,Villa,Clothing and fashion,Myntra,₹2000-₹4000,Shipping speed and cost,Better customer service,3
+10/24/2023 1:29:27,ayshwareshwar.lv@mba.christuniversity.in,18-20,Male,Indian,Gujarat,MBA,Urban,Monthly,5000-10000,Villa,Clothing and fashion,Myntra,₹4000-₹6000,Brand reputation,Better customer service,2
+10/24/2023 1:33:00,nicole.machado@mba.christuniversity.in,20-22,Female,Indian,Tamil Nadu,MBA,Urban,Monthly,5000-10000,Celebrations,Clothing and fashion,Flipkart,₹2000-₹4000,Shipping speed and cost,More product variety,4
+10/24/2023 1:38:07,simon.lakshan@law.christuniversity.in,18-20,Male,Indian,Himachal Pradesh,BA LLb,Urban,Weekly,5000-10000,Villa,Groceries,Flipkart,₹2000-₹4000,Shipping speed and cost,Better customer service,3
+10/24/2023 1:40:18,jose.moncy@law.christuniversity.in,18-20,Male,Indian,Gujarat,BA LLb,Urban,Weekly,5000-10000,Portofino,Clothing and fashion,Flipkart,₹4000-₹6000,Shipping speed and cost,More product variety,3
